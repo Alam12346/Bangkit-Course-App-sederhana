@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Anime Wiki</string>
+    <string name="namecharacter">Name Character</string>
+    <string name="sortdesc">Sort Description</string>
+    <string name="personal_description">personal Pescription</string>
+    <string name="description">Description</string>
+    <string name="aboutpage">About</string>
+    <string name="myname">Syukur Sidiq Nur Alam</string>
+    <string name="myemail">syukursidiqnuralam@gmail.com</string>
+    <string name="about">About Me</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>All For One</item>
+        <item>All Might</item>
+        <item>Bruce</item>
+        <item>Dabi</item>
+        <item>Daigoro</item>
+        <item>En Tayutai</item>
+        <item>Hikage</item>
+        <item>Himiko Toga</item>
+        <item>Izuku</item>
+        <item>Kudo</item>
+        <item>Mr Compress</item>
+        <item>nana</item>
+        <item>Spinner</item>
+        <item>Tomura Shigaraki</item>
+        <item>Twice</item>
+        <item>Yoichi</item>
+    </string-array>
+    <string-array name="data_sortdesc">
+        <item>If it\'s  freedom you desire, then submit to me, my brethren. And bear witness,by my side. </item>
+        <item>It\'s fine now. Why? Because I am here! </item>
+        <item> The third user of One For All.</item>
+        <item>You must\'ve thought, As long as I face the future, I can be better!  </item>
+        <item>This power in you, it\'s not something you can use casually, all distracted! Not anymore! Pull yourself together! </item>
+        <item>Our Quirks are mostly standalone abilities... that will never rise to the level of ultimate moves. </item>
+        <item> For better or worse... the manifestation of our Quirks has enabled him to act on his primary motivation. He now seeks to save everyone... as a true superhero.</item>
+        <item> I wanted to become other people so badly. So in fits of jealousy and affection... I drank all of their blood.</item>
+        <item> You\'ll be fine. After all, didn\'t you make an effort to reach out with a helping hand just now? You can be a hero. Do your best, kid!</item>
+        <item>Our Meta Abilities were never what you should\'ve been wary of. Rather, you should fear the reason why someone chooses to use their gifts. </item>
+        <item>I am Harima\'s great great grandson! The bandit king\'s blood flows through me! What\'s that, you say? You barely noticed me?! All part of the act!  </item>
+        <item> When you have to save someone, they\'re usually in a scary situation. A true hero saves not only their lives, but also their hearts... That\'s what I believe.</item>
+        <item> I thought... I\'d never get to be anyone. But by following you... Maybe... I can really be somebody. Shigaraki! Just watch me! I\'ve got my allies behind me!</item>
+        <item>Nah. \'Cause I\'m a villain. I fight in the name of evil... To destroy. Doesn\'t matter... if you stamp out my hatred. Even if I wind up hollow... The villains... need a hero of their own. </item>
+        <item>There\'s no place for insane guys like me in society. As for the people heroes like to save... yeah, they\'re always the good, virtuous ones. </item>
+        <item> The Demon Lord did conquer the world, yes. But the hero fighting for justice struggled past the pain and managed to save everyone. Get it, brother? The villain always loses in the end!</item>
+
+    </string-array>
+
+    <string-array name="personal_description">
+        <item>Age :121 \n Gender :Male \n Height : 225cm \n Hair Color : White, Bald (Formerly) \n Eye Color : White (manga/anime post-Rewind drug), Red (anime), Eyeless (Formerly) \n Blood Type : Varies (via Antigen Swap) \n Quirk : All For One (Duplicate; formerly Original) Various stolen Quirks</item>
+        <item>Birthday :June 10 \n Age :55 (Pre-timeskip), 63 (Current) \n Gender :Male \n Height : 220cm  (Muscle form) \n Weight : 274kg (604lbs) (Before injury), 255kg (562lbs) (Muscle form) \n Hair Color : Blond \n Eye Color : Light blue \n Blood Type : A \n Quirk : Quirkless (Initially, currently), One For All (Formerly)</item>
+        <item>Gender :Male \n Hair Color : Cadet Grey \n Eye Color : Grey \n Quirk : Fa Jin, One For All (Formerly)</item>
+        <item>Birthday : January 18 \n Age : 23 (First appearance to Endeavor Agency Arc), 24 (Current) \n Gender : Male \n Height : 176cm \n Hair Color : White, Crimson (Formerly), Black (Formerly; dyed) \n Eye Color : Turquoise \n Quirk :Blueflame</item>
+        <item>Gender : Male \n Hair Color : Bald \nEye Color : Dull blue \n Quirk : Blackwhip, One For All (Formerly)</item>
+        <item>Gender : Male \n Hair Color : Black \n Eye Color : Gray \n Quirk : Smokescreen, One For All (Formerly)</item>
+        <item>Age : 40 \n Gender : Male \n Hair Color : White \n Eye Color : Green \n Quirk : Danger Sense, One For All (Formerly)</item>
+        <item>Birthday : August, 7 \n Age : 16 (First appearance), 17 (Current) \n Gender : Female \n Height : 157cm  \n Hair Color : Light dirty blonde \n Eye Color : Golden yellow \n Quirk : Transform</item>
+        <item>Birthday : August, 7 \n Age : 16 (First appearance), 17 (Current) \n Gender : Female \n Height : 157cm  \n Hair Color : Light dirty blonde \n Eye Color : Golden yellow \n Quirk : Transform</item>
+        <item>Birthday :July 15 \n Age :4 (First appearance), 14 (Chapter 1 and 2), 15 (Chapter 3 to Final Exams Arc), 16 (Forest Training Camp Arc to Chapter 429), 24 (Last appearance) \n Gender : Male \n Height : 166 cm  \n Hair Color : Green \n Eye Color : Green \n Blood Type : O \n Quirk : Quirkless (Initially, currently), One For All (Formerly), Gearshift (Formerly), Fa Jin (Formerly), Danger Sense (Formerly), Blackwhip (Formerly), Smokescreen (Formerly), Float (Formerly)</item>
+        <item>Birthday :October 8 \n Age :31 (First appearance), 32 (Pre Timeskip), 40 (Current) \n Gender : Male \n Height : 181cm \n Hair Color :Brown \n Eye Color :Brown \n Quirk : Compress</item>
+        <item>Gender :Female \n Hair Color : Black \n Eye Color :Purple \n Quirk : Float, One For All (Formerly)</item>
+        <item>Birthday : August 8\n Age : 20 (First appearance), 21 (Forest Training Camp Arc to the Final War Arc), 29 (Post Time Skip) \n Gender : Male \n Height : 174cm \n Hair Color : Pink (manga), Purple (anime) \n Skin Color : Green \n Eye Color : Pink (manga), Red (anime) \n Quirk : Gecko, Body Bulk, Scalemail \n</item>
+        <item>Birthday :April 4 \n Age : 20 (First appearance), 21 (Current) \n Gender : Male \n Height : 175 cm \n Hair Color : White, Light blue (Formerly), Black (Formerly) \n Eye Color : Red, Gray (Formerly) \n Quirk : Unknown original Quirk (Formerly), Quirkless (Formerly), Decay, All For One, Various stolen Quirks </item>
+        <item>Birthday : May 10 \n Age : 31\n Gender Male \n Height : 178cm  \n Hair Color : Blond \n Eye Color :Gray-blue \n Quirk :Double</item>
+        <item>Gender : Male \n Hair Color : White \n Eye Color : Green \n Quirk : One For All (Formerly), Quirk Bestowal (Formerly), Unnamed Power Stockpiling Quirk (Formerly), Quirkless</item>
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>All For One (オール・フォー・ワン Ōru Fō Wan?), surname Shigaraki (死し柄がら木き Shigaraki?), is the overarching antagonist of the My Hero Academia manga and anime series. He was the founder and benefactor of the League of Villains.
+Once Japan\'s most powerful villain, and All Might\'s arch-nemesis, his ultimate goal was to steal One For All, the Quirk that originally belonged to his younger twin brother, and the only Quirk that can oppose him. He was the mentor of Tomura Shigaraki, having spent the young villain\'s life shaping him into a successor, and a vessel for his power in a plan to eventually conquer the world as a self-proclaimed demon lord </item>
+        <item>Toshinori Yagi (八や木ぎ俊とし典のり Yagi Toshinori?), also known as All Might (オールマイト Ōru Maito?), is the former No. 1 Pro Hero who bore the title of the world\'s Symbol of Peace (平和の象徴 Heiwa no Shōchō?). He teaches Foundational Hero Studies at U.A. High School.
+
+All Might was the eighth holder of the One For All Quirk after receiving it from Nana Shimura. He has since passed the torch onto Izuku Midoriya, whom he is training to be his successor. After using up all the embers of One For All to defeat All For One, All Might retired and ended his era as the world\'s greatest hero. </item>
+        <item> Bruce was part of the resistance fighting against All For One alongside Kudo. He was there during the assassination attempt on Yoichi before deciding to rescue him instead. When All For One tracked Yoichi to the resistance\'s base to reclaim him, he and Kudo escaped, but Yoichi was killed by his older brother. He was the one who examined Kudo\'s body to discover that he has two Quirk Factors now within him, and realizing the existence of Yoichi\'s lingering will. At some point before he was killed, Kudo passed on the Quirk to Bruce, who then passed it on to Hikage before he too met an end by All For One\'s hand.</item>
+        <item>Dabi (荼だ毘び Dabi?), real name Toya Todoroki (轟とどろき燈とう矢や Todoroki Tōya?), is one of the main antagonists in the My Hero Academia manga and anime series.
+
+He is the eldest son of the Pro Hero Endeavor, driven insane due to his neglectful and selfish actions, and becoming a villain to enact revenge. He became affiliated with the League of Villains, a former member of the organization\'s since disbanded Vanguard Action Squad, and later one of the nine lieutenants of the Paranormal Liberation Front. </item>
+        <item>Daigoro Banjo (万ばん縄じょう大だい悟ご郎ろう Banjō Daigorō?), also known as Lariat (ラリアット Rariatto?),[1] was a former Pro Hero and the fifth user of the One For All Quirk. </item>
+        <item>En Tayutai (揺蕩たゆた井い煙えん Tayutai En?), also known as Smoke-Eater (ガエン Gaen?),[1] was a former Pro Hero and the sixth user of the One For All Quirk. En was a fairly short man with short, dark hair parted twice away from his narrow eyes.
+
+His hero costume consists of a large red jacket with numerous straps and buttons, and a high collar that obscures his mouth and nose. Accompanying this are dark, fairly-baggy pants and large white hiking boots. His forearms are also wrapped in sports tape. </item>
+        <item> Hikage Shinomori (四しノの森もり避ひ影かげ Shinomori Hikage?)[1] was the fourth user of the One For All Quirk.
+            Hikage was a lean man with short, white hair that parts away from the base of his forehead, and thin, green eyes that slant slightly downward. Due to his accelerated aging, he gained two scar-like cracks stretching from the left side of his forehead down to his chin.</item>
+        <item> Himiko Toga (渡と我が被ひ身み子こ Toga Himiko?)[3] was one of the main antagonists of the My Hero Academia manga and anime series.
+
+She was a member of the League of Villains, affiliated with the Vanguard Action Squad,[4] and later becoming one of the nine lieutenants of the Paranormal Liberation Front.</item>
+        <item> Izuku Midoriya (緑みどり谷や出いず久く Midoriya Izuku?), also known as Deku (デク Deku?), is the main protagonist of the My Hero Academia manga and anime series.
+
+Even though Izuku was born Quirkless, he manages to catch the attention of the legendary Hero All Might, due to his innate heroism and a strong sense of justice, and has since become his close pupil, as well as a student in Class 1-A at U.A. High School. All Might passed on his transferable Quirk to Izuku, making him the ninth and final wielder of One For All.</item>
+        <item>Kudo (駆く藤どう Kudō?) was the leader of a resistance that fought against All For One. After rescuing his archenemy\'s brother, Yoichi Shigaraki, he became the second user of the One For All Quirk.
+            Distinctively, Kudo bore a strong resemblance to Katsuki Bakugo, with short, spiky, ginger salmon hair, and somewhat thin red eyes that are slanted slightly downwards. He also had a large scar on his face, starting from the left side of his forehead, forking out in the middle, and finishing underneath both of his eyes, which he received just before his death at the hands of All For One during their final battle. He wore a green combat jacket with a large, black collar. He also wore large gauntlets, which he seemingly used for offensive purposes powered by his Gearshift Meta Ability. </item>
+        <item>Atsuhiro Sako (迫さこ圧あつ紘ひろ Sako Atsuhiro?), also known as Mr. Compress (Mr.ミスターコンプレス Misutā Konpuresu?), is a recurring villain affiliated with the League of Villains, was a member of the organization\'s Vanguard Action Squad, and later became one of the nine lieutenants of the Paranormal Liberation Front.[2]
+
+He followed in the footsteps of the Peerless Thief, who was his great great grandfather[3] and became a nationwide wanted thief,[4] being one of the more \'experienced\' members of the League. He and the rest of his team serve as the main antagonists of the Forest Training Camp Arc and Paranormal Liberation War Arc. He was arrested after his defeat during the Paranormal Liberation War.[5] After the Final War, Mr. Compress, along with Spinner, are the two surviving members of the League of Villains. </item>
+        <item> Nana Shimura (志し村むら菜な奈な Shimura Nana?)[1] was the seventh user of the One For All Quirk, the former mentor of All Might, a close friend of Gran Torino,[2] and the grandmother of Tenko Shimura.
+        Nana is described as a beautiful woman with a tough demeanor. She was a tall woman with a curvaceous figure, and at the same time, she was well-built, as befitting a One For All user. She was fair-skinned and had a small mole below her bottom lip, centered to the right, and sharp, intelligent eyes with long eyelashes. Her hair was dark and straight, kept shoulder-length, with the exception of a clump of short bangs hanging above her forehead, and was usually styled in a half-up-half-down bun.</item>
+        <item> Shuichi Iguchi (伊い口ぐち秀しゅう一いち Iguchi Shūichi?), also known as Spinner (スピナー Supinā?),[2] is a recurring villain affiliated with the League of Villains, was part of the Vanguard Action Squad,[3] and later became one of the nine lieutenants of the Paranormal Liberation Front.[4]
+
+He and the rest of his team serve as the main antagonists of the Forest Training Camp Arc, Paranormal Liberation War Arc, and Final War Arc.
+
+After the Final War he became an author, writing a book on Tomura Shigaraki and the League of Villains, to ensure their legacy is never forgotten by the heroes. Additionally, Spinner, along with Mr. Compress, are the two surviving members of the League of Villains.</item>
+        <item>Tomura Shigaraki (死し柄がら木き弔とむら Shigaraki Tomura?), real name Tenko Shimura (志し村むら転てん弧こ Shimura Tenko?), is the main antagonist of the My Hero Academia manga and anime series.
+
+He was the leader of the League of Villains, making his first major appearance as one of the main antagonists of the U.S.J. Arc. He was raised by his master, All For One, with the goal to kill All Might, the Symbol of Peace, and ultimately destroying the society he represents. He soon merged his organization and the Meta Liberation Army to form the Paranormal Liberation Front, becoming its Grand Commander and later inheriting the All For One Quirk. </item>
+        <item>Jin Bubaigawara (分ぶ倍ばい河がわ原ら仁じん Bubaigawara Jin?),[2] also known as Twice (トゥワイス Tuwaisu?),[3] was a major antagonist of the My Hero Academia manga and anime series.
+
+He was a Villain affiliated with the League of Villains, part of its Vanguard Action Squad, and later became one of the nine lieutenants of the Paranormal Liberation Front. He served as an antagonist in the Forest Training Camp Arc, Shie Hassaikai Arc, and Paranormal Liberation War Arc. </item>
+        <item> Yoichi Shigaraki (死し柄がら木き与よ一いち Shigaraki Yoichi?)[1] was the younger twin brother of All For One, as well as the first user and progenitor of the One For All Quirk.
+
+He was presumed to be Quirkless, and could only watch as his brother committed atrocities. When his brother decided to forcefully implant a Quirk within him, it was discovered that he really did have a Quirk, one with no other power than that it could be transferred to others. The merging of the two Quirks resulted in the creation of One For All.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/allforone</item>
+        <item>@drawable/allmight</item>
+        <item>@drawable/bruce</item>
+        <item>@drawable/dabi</item>
+        <item>@drawable/daigoro</item>
+        <item>@drawable/entayutai</item>
+        <item>@drawable/hikage</item>
+        <item>@drawable/himikotoga</item>
+        <item>@drawable/izuku</item>
+        <item>@drawable/kudo</item>
+        <item>@drawable/mrcompress</item>
+        <item>@drawable/nana</item>
+        <item>@drawable/spinner</item>
+        <item>@drawable/tomurashigaraki</item>
+        <item>@drawable/twice</item>
+        <item>@drawable/yoichi</item>
+    </integer-array>
+</resources>
